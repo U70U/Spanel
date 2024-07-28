@@ -93,3 +93,6 @@
 ## تعداد ستاره‌ها به مرور زمان
 
 [![تعداد ستاره‌ها به مرور زمان](https://starchart.cc/U70U/Spanel.svg?variant=adaptive)](https://starchart.cc/U70U/Spanel)
+
+به کمک نیازدارید؟
+Https://MohsenLinux.T.me
